@@ -2,7 +2,7 @@
 
 VORWORT:
 
-In diesem Dokument möchte ich Ihnen einen Überblick über die von mir entwickelte Software geben. Es handelt sich hierbei um mein erstes Projekt, das derzeit noch nicht vollständig abgeschlossen ist. Die Software ist jedoch bereits in der produktiven Umgebung einsatzbereit und weist lediglich einige wenige Softwarefehler auf, die ich in naher Zukunft beheben werde.
+In diesem Dokument möchte ich Ihnen einen Überblick über die von mir entwickelte Software geben. Es handelt sich hierbei um mein erstes Projekt, das derzeit noch nicht vollständig abgeschlossen ist. Diese Software ist ein privates Projekt, das bereits in meiner produktiven Umgebung im Einsatz ist und stabil funktioniert. Aktuell gibt es nur einige wenige Softwarefehler, die ich in naher Zukunft beheben werde. In der neuesten Version sind noch Anpassungen erforderlich, um die Software vollständig funktionsfähig und benutzerfreundlicher zu gestalten. Ich arbeite aktiv an diesen Verbesserungen, um das Projekt weiter zu optimieren.
 Mir ist bewusst, dass der Quellcode möglicherweise in einer prägnanteren und strukturierteren Form verfasst werden könnte. Leider wurde während des Lernprozesses die Dokumentation des Quellcodes vernachlässigt. Ich erkenne jedoch die hohe Wichtigkeit von Dokumentationen an, da sie dazu beitragen, den Code verständlicher und wartungsfreundlicher zu gestalten. Eine umfassende Dokumentation erleichtert nicht nur die Nachvollziehbarkeit für andere Entwickler, sondern auch für mich selbst in der Zukunft.
 
 Die Entwicklung der Software erfolgte unter Verwendung von Visual Studio Community 2022 in der Programmiersprache C#. Für die grafische Benutzeroberfläche kommt das WPF-Framework zum Einsatz.
