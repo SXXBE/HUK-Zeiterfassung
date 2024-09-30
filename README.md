@@ -96,3 +96,4 @@ TO-DO's:
 - Dynamische Aktualisierung der eingetragenen Zeiten bei Löschung oder Änderungen von Zeiteinträgen
 - Updatefunktion
 - Dokumentation
+- Bugfixes
