@@ -93,6 +93,6 @@ Das Projektarchiv beinhaltet alle Projekte, welche nicht mehr in Verwendung sind
 TO-DO's:
 
 - Überarbeitung des Datenbankschemas
-- Dynamische Aktualisierung dereingetragenen Zeiten bei Löschung oder Änderungen von Zeiteinträgen
+- Dynamische Aktualisierung der eingetragenen Zeiten bei Löschung oder Änderungen von Zeiteinträgen
 - Updatefunktion
 - Dokumentation
