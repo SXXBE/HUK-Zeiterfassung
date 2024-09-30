@@ -8,7 +8,7 @@ Mir ist bewusst, dass der Quellcode möglicherweise in einer prägnanteren und s
 Die Entwicklung der Software erfolgte unter Verwendung von Visual Studio Community 2022 in der Programmiersprache C#. Für die grafische Benutzeroberfläche kommt das WPF-Framework zum Einsatz.
 Zusätzlich werden sämtliche EInstellungen, Projekteeinträge und Zeiteinträge in einer SQLite Datenbank im Windows Userverzeichnis abgelegt. 
 
-Die Anwednung prüft beim Start automatisch, ob bereits eine Datenbank vorhanden ist. Ist dies nicht der Fall, wird automatisch eine angelegt. 
+
 
 
 DATENBANKSCHEMA:
