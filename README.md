@@ -89,3 +89,10 @@ Das Projektarchiv beinhaltet alle Projekte, welche nicht mehr in Verwendung sind
 ![image](https://github.com/user-attachments/assets/60d2382d-254b-412f-9495-982feb7c2d5e)
 
 Über das Einstellungsmenü lassen sich diverse Punkte wie optische Anpassungen, Autostart oder andere Funktionen festlegen. 
+
+TO-DO's:
+
+- Überarbeitung des Datenbankschemas
+- Dynamische Aktualisierung dereingetragenen Zeiten bei Löschung oder Änderungen von Zeiteinträgen
+- Updatefunktion
+- Dokumentation
