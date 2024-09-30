@@ -27,34 +27,34 @@ Um den Anforderungen der Vorgesetzten gerecht zu werden und eine systematische s
 FUNKTIONSÜBERSICHT
 
 Fenster und Bedienung
-•	Anheftung am Bildschirmrand: Das Fenster zur Zeiterfassung kann am gewünschten Bildschirmrand des ausgewählten Monitors verankert werden. Dadurch bleibt die Anwendung unauffällig im Hintergrund und lässt sich durch ein einfaches „Mouse hover“ aufrufen. Nach einer in den Einstellungen definierten Zeit versteckt sich das Fenster automatisch wieder oder kann manuell geschlossen werden.
+-	Anheftung am Bildschirmrand: Das Fenster zur Zeiterfassung kann am gewünschten Bildschirmrand des ausgewählten Monitors verankert werden. Dadurch bleibt die Anwendung unauffällig im Hintergrund und lässt sich durch ein einfaches „Mouse hover“ aufrufen. Nach einer in den Einstellungen definierten Zeit versteckt sich das Fenster automatisch wieder oder kann manuell geschlossen werden.
 
-•	Übersichtliche Benutzeroberfläche: Die Bedienoberfläche ist klar strukturiert. Dank großer Bedienelemente können Zeiterfassungen schnell und unkompliziert gestartet und beendet werden.
+-	Übersichtliche Benutzeroberfläche: Die Bedienoberfläche ist klar strukturiert. Dank großer Bedienelemente können Zeiterfassungen schnell und unkompliziert gestartet und beendet werden.
 
 Projektmanagement
-•	Projektbeschränkung auf „aktive“ Projekte: Es können nur Zeiten für Projekte erfasst werden, die als „aktiv“ markiert sind. Dies ermöglicht es, geplante Projekte anzulegen, ohne dass sie in der Übersicht stören.
+-	Projektbeschränkung auf „aktive“ Projekte: Es können nur Zeiten für Projekte erfasst werden, die als „aktiv“ markiert sind. Dies ermöglicht es, geplante Projekte anzulegen, ohne dass sie in der Übersicht stören.
 
-•	Schutz vor versehentlicher Löschung: Projekte, die als „geschützt“ markiert sind, können nicht versehentlich gelöscht werden. Sie müssen vor dem Löschen zuerst entsperrt werden.
+-	Schutz vor versehentlicher Löschung: Projekte, die als „geschützt“ markiert sind, können nicht versehentlich gelöscht werden. Sie müssen vor dem Löschen zuerst entsperrt werden.
 
-•	Projektarchiv: Abgeschlossene Projekte werden nicht sofort gelöscht, sondern in ein Projektarchiv verschoben. Hier können sie entweder reaktiviert oder dauerhaft gelöscht werden.
+-	Projektarchiv: Abgeschlossene Projekte werden nicht sofort gelöscht, sondern in ein Projektarchiv verschoben. Hier können sie entweder reaktiviert oder dauerhaft gelöscht werden.
 
 Zeiterfassung und Anzeige
-•	Kalenderansicht: Die Zeiterfassungen werden übersichtlich über einen interaktiven Kalender verwaltet.
+-	Kalenderansicht: Die Zeiterfassungen werden übersichtlich über einen interaktiven Kalender verwaltet.
 
-•	Wochenübersicht: Eine Übersicht zeigt alle Zeiterfassungen der ausgewählten Kalenderwoche sowie die Gesamtzeit pro Tag.
+-	Wochenübersicht: Eine Übersicht zeigt alle Zeiterfassungen der ausgewählten Kalenderwoche sowie die Gesamtzeit pro Tag.
 
-•	Doppelklick für Zwischenspeicher: Ein Doppelklick auf einen Zeiteintrag lädt die Daten automatisch in den Zwischenspeicher. Zeiteinträge im Format „HH
+-	Doppelklick für Zwischenspeicher: Ein Doppelklick auf einen Zeiteintrag lädt die Daten automatisch in den Zwischenspeicher. Zeiteinträge im Format „HH
 “ werden dabei automatisch in Dezimalwerte umgerechnet, wie es für das ERP-System erforderlich ist.
 
 Timer-PopUp
-•	Schwebendes Fenster: Der Timer-PopUp ist ein dauerhaft sichtbares, anpassbares Fenster, das die aktuelle Projektzeit anzeigt. Zusätzlich kann eine Erinnerung eingestellt werden, die den Nutzer daran erinnert, die erfassten Zeiten in das ERP-System zu übertragen. Ein Autostartmodus ist ebenfalls vorhanden.
+-	Schwebendes Fenster: Der Timer-PopUp ist ein dauerhaft sichtbares, anpassbares Fenster, das die aktuelle Projektzeit anzeigt. Zusätzlich kann eine Erinnerung eingestellt werden, die den Nutzer daran erinnert, die erfassten Zeiten in das ERP-System zu übertragen. Ein Autostartmodus ist ebenfalls vorhanden.
 
 Autostart und Systemintegration
-•	Autostart-Funktion: Die HUK-Zeiterfassung kann so konfiguriert werden, dass sie automatisch beim Start des Computers gestartet wird und mit der Zeiterfassung beginnt. Dabei muss ein Startprojekt angegeben werden.
+-	Autostart-Funktion: Die HUK-Zeiterfassung kann so konfiguriert werden, dass sie automatisch beim Start des Computers gestartet wird und mit der Zeiterfassung beginnt. Dabei muss ein Startprojekt angegeben werden.
 
-•	SystemTray- und Taskleisten-Integration: Es besteht die Möglichkeit, die HUK-Zeiterfassung im SystemTray oder in der Taskleiste ein- oder auszublenden.
+-	SystemTray- und Taskleisten-Integration: Es besteht die Möglichkeit, die HUK-Zeiterfassung im SystemTray oder in der Taskleiste ein- oder auszublenden.
 
-• Die Daten der Erfassung werden in einer SQLite Datenbank hinterlegt, welche im Windows Benutzerverzeichnis abgelegt wird. Dies hat den Vorteil, dass jeder Benutzer seine eigene Datenbank hat. 
+- Die Daten der Erfassung werden in einer SQLite Datenbank hinterlegt, welche im Windows Benutzerverzeichnis abgelegt wird. Dies hat den Vorteil, dass jeder Benutzer seine eigene Datenbank hat. 
 
 SCREENSHOTS & AUFZEICHNUNGEN:
 
